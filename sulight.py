@@ -9,4 +9,4 @@ def Sunlight(arr, n):
     return count 
 arr = list(map(int,input().split()))
 n = len(arr) 
-print(Sunlight(arr,n)) 
+print(Sunlight(arr,n))
