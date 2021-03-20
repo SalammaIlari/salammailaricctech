@@ -1,4 +1,4 @@
-#Check if the given point lies inside or outside a polygon
+#(Check if the given point lies inside or outside a polygon)
 class Point:
     def __init__(self, x, y):
         self.x = x
